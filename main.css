@@ -1,0 +1,29 @@
+body {
+  background-color: #f9fafb;
+  color: #4b5563;
+  font-family: Inter, sans-serif;
+}
+
+.mainTitle {
+  color: #111827;
+  font-family: Inter, sans-serif;
+  font-size: 48px;
+  font-weight: 700px;
+}
+
+.footer {
+  background-color: #111827;
+  color: #9ca3af;
+  font-family: Inter, sans-serif;
+  font-size: 14px;
+  font-weight: 400px;
+  text-align: left;
+}
+
+.price {
+  background-color: transparent;
+  color: #059669;
+  font-family: Inter, sans-serif;
+  font-size: 20px;
+  font-weight: 700px;
+}
